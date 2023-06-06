@@ -1,10 +1,10 @@
  👋 Hi, I’m @FarhanGadi
 
- -✨I am a MERN-Stack developer
+ -✨I am a Front-End Engineer
 
- -💬 Ask me about Html , Css , Bootstrap , Tailwind , Javascript , JQuery , React
+ -💬 Ask me about Html , Css , Bootstrap , Tailwind , Javascript , JQuery , React , Next , Contentful , ...
 
- -🌱 I’m currently work at Mern Stack Development
+ -🌱 I’m currently work at Serenity Digital Pvt.Ltd 
 
  -📫 How to reach me farhangadi1698@gmail.com
 
